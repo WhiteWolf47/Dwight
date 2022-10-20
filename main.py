@@ -44,5 +44,4 @@ async def on_message(message):
         await message.channel.send(score)
 
 
-#client.run(os.getenv("TOKEN"))
-client.run("MTAyNTEzMzg3NDMwMjQyNzI2Nw.GOSm9T.ggCnGdrLVlW0kwpWiHZ92RLgyGK09jNOIc_HyA")
+client.run(os.getenv("TOKEN"))
